@@ -221,7 +221,7 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 #EXTVLCOPT:http-DownLoadRate=40960.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-logo="https://iili.io/H7B4QYF.png" group-title="UNIFI" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 Unifi TV1
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-logo="https://e7.pngegg.com/pngimages/753/244/png-clipart-astro-go-shop-bukit-jalil-television-show-astro-malaysia-holdings-others-television-text.png" group-title="UNIFI" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 Unifi TV1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=ISjyAgq%2Blu2gselHicZT7oMpLAivxUA%2BrQHxwFC0%2BPPf5%2FAFj1swDTc1x%2BSww9v%2BkspKWPAI1%2FcZIol9jdelgEddxsQ6cqFIt%2B6MTSoEjjGvR4mROu%2BV7STD5iyI4TPelRUU0IgnFl7hSHjttapGxQ%3D%3D%3A20230713154128%3AUTC%2C1004320541%2C14.1.206.81%2C20230713154128%2Curn:Huawei:liveTV:iptv243%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&hms_devid=1794&mount=1000002&targetdev=1794&it=H4sIAAAAAAAAA0XMywrCMBBA0b_JMuTZxyIrRXAThKpbGafTEIgNJrXg30tFcH_PXQogHfdOt9Z0orO6RzBmQqBGYk9gQbWNkIJVevrsNENIKc7B53Fj12F3k4ILrpTk2rDztjskCE59S_963Kn82UBljUhurBNfoXIIoVCAJeaZnxK8LyX9kg_8GL0ymQAAAA
 
 
@@ -433,17 +433,17 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=center
 
 
 
-#EXTINF:-1 tvg-id="AstroPremier" ch-number="410" group-title="MALAYSIA" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://i.ibb.co/wN4yrwX/Astro-Premier.png",410 Astro Premier
+#EXTINF:-1 tvg-id="AstroPremier" ch-number="410" group-title="MALAYSIA" group-logo="https://e7.pngegg.com/pngimages/753/244/png-clipart-astro-go-shop-bukit-jalil-television-show-astro-malaysia-holdings-others-television-text.png" tvg-logo="https://i.ibb.co/wN4yrwX/Astro-Premier.png",410 Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OvWAx7IYQAMBefTcrSJ8ig", "kid":"XMXAH2YVlZUkX+iuZ5ELEA" } ], "type":"temporary" } 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Astro Live Show (Waktu Live Sahaja) 1
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://e7.pngegg.com/pngimages/753/244/png-clipart-astro-go-shop-bukit-jalil-television-show-astro-malaysia-holdings-others-television-text.png" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Astro Live Show (Waktu Live Sahaja) 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Astro Live Show (Waktu Live Sahaja) 2
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://e7.pngegg.com/pngimages/753/244/png-clipart-astro-go-shop-bukit-jalil-television-show-astro-malaysia-holdings-others-television-text.png" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Astro Live Show (Waktu Live Sahaja) 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
